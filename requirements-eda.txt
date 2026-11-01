@@ -1,0 +1,5 @@
+# Local exploratory analysis; independent of evaluation and model training.
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+opencv-python-headless==5.0.0.93
